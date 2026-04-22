@@ -18,9 +18,7 @@ I specialize in building scalable QA processes across Salesforce CRM, CPQ, Quote
 - Team Leadership
 
 ## Featured Projects
-- Salesforce Automation Framework
-- Hybrid Selenium Framework
-- API Testing Collection
+- Hybrid Automation Framework
 - SQL Validation Queries
 - UAT Governance Templates
 - Defect Dashboard Metrics
