@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Dishi%20Gogia&fontSize=40&fontColor=ffffff"/>
+</p>
 <h1 align="center">Hi 👋, I'm Dishi Gogia</h1>
 <h3 align="center">Senior QA Manager | Automation | Salesforce | CPQ | Release Governance</h3>
 
@@ -82,6 +85,11 @@
 * 💼 LinkedIn: https://www.linkedin.com/in/dishi-gogia
 * 📧 Email: [dishi.angel@gmail.com](mailto:dishi.angel@gmail.com)
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/dishi-gogia">
+    <img src="https://img.shields.io/badge/LinkedIn-DishiGogia-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
 ---
 
 <p align="center">
