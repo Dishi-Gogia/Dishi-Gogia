@@ -1,6 +1,6 @@
 # Hi, I'm Dishi Gogia👋
 
-QA Lead | Salesforce QA | Test Automation | UAT Governance | Release Readiness
+Senior QA Manager | Test Automation | Selenium Java | Salesforce CRM | Oracle CPQ | QA Governance | Release Management
 
 I specialize in building scalable QA processes across Salesforce CRM, CPQ, Quote-to-Cash, automation frameworks, and enterprise release programs.
 
